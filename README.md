@@ -1,5 +1,5 @@
 # jsfour-dna
-A script that lets you grab DNA samples from players and crime scenes (dead players).
+Unofficial fork.
 
 ### LICENSE
 Please don't sell or reupload this resource
